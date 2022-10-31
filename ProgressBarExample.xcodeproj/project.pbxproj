@@ -11,6 +11,7 @@
 		ADC798DB290FB9E100614221 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC798DA290FB9E100614221 /* ContentView.swift */; };
 		ADC798DD290FB9E300614221 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADC798DC290FB9E300614221 /* Assets.xcassets */; };
 		ADC798E0290FB9E300614221 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADC798DF290FB9E300614221 /* Preview Assets.xcassets */; };
+		ADC798E7290FBA5500614221 /* ProgressBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADC798E6290FBA5500614221 /* ProgressBar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		ADC798DA290FB9E100614221 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		ADC798DC290FB9E300614221 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ADC798DF290FB9E300614221 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		ADC798E6290FBA5500614221 /* ProgressBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressBar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				ADC798D8290FB9E100614221 /* ProgressBarExampleApp.swift */,
 				ADC798DA290FB9E100614221 /* ContentView.swift */,
+				ADC798E6290FBA5500614221 /* ProgressBar.swift */,
 				ADC798DC290FB9E300614221 /* Assets.xcassets */,
 				ADC798DE290FB9E300614221 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ADC798DB290FB9E100614221 /* ContentView.swift in Sources */,
+				ADC798E7290FBA5500614221 /* ProgressBar.swift in Sources */,
 				ADC798D9290FB9E100614221 /* ProgressBarExampleApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
